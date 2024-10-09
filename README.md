@@ -8,12 +8,7 @@ This project contains a basic implementation of a login and signup page using HT
 - Responsive design
 - Basic form validation
 
-## File Structure
 
-- `index.html` - The main file containing the login page.
-- `signup.html` - The file containing the signup page.
-- `styles.css` - The stylesheet for styling the pages.
-- `scripts.js` - The JavaScript file for form validation.
 
 ## Instructions
 
@@ -21,4 +16,6 @@ This project contains a basic implementation of a login and signup page using HT
 2. Open `index.html` in your preferred web browser to view the login page.
 3. Click on the "Sign up" link to navigate to the signup page
 
-##    
+## Deployement 
+
+Website is live at:https://login-page-demo-alpha.vercel.app/
